@@ -1,0 +1,15 @@
+/* tooltips example */
+
+The BRICE system is central to this book.
+
+*[BRICE]: Brice Rapid Information Collection and Evaluation — a comprehensive framework for mind-control recovery and deprogramming.
+
+/* footnotes example */
+
+This is a test sentence with a footnote.[^1]
+
+[^1]: This should appear as a beautiful floating tooltip when you hover over the superscript number. It supports **formatting** and multiple lines.
+
+/* page number example */
+
+**[p. 45]** 

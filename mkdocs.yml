@@ -1,0 +1,90 @@
+site_name: Brice Project
+
+nav:
+  - Home: index.md
+  - 1. The Creation of a Human Robot: chapter-01/index.md
+  - 2. Early Childhood Preparation: chapter-02/index.md
+  - 3. We’re Off to See the Wizard: chapter-03/index.md
+  - 4. Uncle Charlie, Kissinger, Hope and their Little Puppet: chapter-04/index.md
+  - 5. Initiation into the Political Arena as a Sex Slave: chapter-05/index.md
+  - 6. JFK and the Sex Shuttle: chapter-06/index.md
+  - 7. All the way with LBJ: chapter-07/index.md
+  - 8. Brain Surgery at UCLA took away my Father’s Free Will: chapter-08/index.md
+  - 9. They didn’t see me as Human: chapter-09/index.md
+  - 10. Introduced to Governor Ronald Reagan: chapter-10/index.md
+  - 11. Mind Control in the Prisons b: chapter-11/index.md
+  - 12. title: chapter-12/index.md
+  - 13. title: chapter-13/index.md
+  - 14. title: chapter-14/index.md
+  - 15. title: chapter-15/index.md
+  - 16. title: chapter-16/index.md
+  - 17. title: chapter-17/index.md
+  - 18. title: chapter-18/index.md
+  - 19. title: chapter-19/index.md
+  - 20. title: chapter-20/index.md
+  - 21. title: chapter-21/index.md
+  - 22. title: chapter-22/index.md
+  - 23. title: chapter-23/index.md
+  - 24. title: chapter-24/index.md
+  - 25. title: chapter-25/index.md
+  - 26. title: chapter-26/index.md
+  - 27. title: chapter-27/index.md
+  - 28. title: chapter-28/index.md
+  - 29. title: chapter-29/index.md
+  - 30. title: chapter-30/index.md
+  - 31. title: chapter-31/index.md
+  - 32. title: chapter-32/index.md
+  - 33. title: chapter-33/index.md
+  - 34. title: chapter-34/index.md
+  - 35. title: chapter-35/index.md
+  - 36. title: chapter-36/index.md
+  - 37. title: chapter-37/index.md
+  - 38. title: chapter-38/index.md
+  - 39. title: chapter-39/index.md
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  features:
+    - content.code.copy
+    - content.footnote.tooltips      # Floating hover footnotes
+#     - content.tooltips               # Inline hover tooltips
+    - navigation.sections
+    - navigation.indexes
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - toc.follow
+
+plugins:
+  - search
+
+markdown_extensions:
+  - footnotes
+  - abbr
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+
+extra_css:
+  - extra.css
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/   # replace with your repo if you have one, or remove
+copyright: >
+  &copy; 2026 Brice Project. All rights 

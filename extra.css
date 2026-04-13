@@ -1,0 +1,45 @@
+/* Custom instant tooltips - clean, readable, no delay */
+
+h1 { color: red !important; }
+
+.custom-tooltip {
+  position: relative;
+  display: inline-block;
+  cursor: help;
+  border-bottom: 1px dotted #888;   /* subtle underline so users know it's hoverable */
+}
+
+.custom-tooltip .tooltiptext {
+  visibility: hidden;
+  position: absolute;
+  bottom: 100%;                    /* appears above the text */
+  left: 50%;
+  transform: translateX(-50%);
+  margin-bottom: 8px;
+  padding: 8px 12px;
+  background-color: #1e1e1e;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  font-size: 0.95rem;
+  line-height: 1.4;
+  white-space: nowrap;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+  z-index: 100;
+}
+
+.custom-tooltip .tooltiptext::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -6px;
+  border-width: 6px;
+  border-style: solid;
+  border-color: #1e1e1e transparent transparent transparent;
+}
+
+/* Show the tooltip instantly on hover */
+.custom-tooltip:hover .tooltiptext {
+  visibility: visible;
+}
