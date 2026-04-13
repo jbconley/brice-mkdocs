@@ -1531,9 +1531,52 @@
 
 
 
+<style>
+/* Instant custom tooltips - clean, readable, no delay */
+.custom-tooltip {
+  position: relative;
+  display: inline-block;
+  cursor: help;
+  border-bottom: 1px dotted #888;
+}
+
+.custom-tooltip .tooltiptext {
+  visibility: hidden;
+  position: absolute;
+  bottom: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+  margin-bottom: 8px;
+  padding: 8px 12px;
+  background-color: #1e1e1e;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  font-size: 0.95rem;
+  line-height: 1.4;
+  white-space: nowrap;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+  z-index: 100;
+}
+
+.custom-tooltip .tooltiptext::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -6px;
+  border-width: 6px;
+  border-style: solid;
+  border-color: #1e1e1e transparent transparent transparent;
+}
+
+.custom-tooltip:hover .tooltiptext {
+  visibility: visible;
+}
+</style>
 <h1 id="chapter-three-were-off-to-see-the-wizard">Chapter Three: We’re Off to See the Wizard</h1>
 <h2 id="common-mind-control-themes">Common Mind Control Themes</h2>
-<p><strong>Test tooltip:</strong> <span class="custom-tooltip">Where is silencer?<span class="tooltiptext">Finger held up to the lips commanding silence.</span></span></p>
+<p><strong>Working tooltip test:</strong> <span class="custom-tooltip">Where is silencer?<span class="tooltiptext">Finger held up to the lips commanding silence.</span></span></p>
 <p>Hand signals are a common mode of control for victims of ritual abuse and mind control. There was a hand signal program I was taught when I was very little, that was sung to the song Frere Jacques, with the nursery rhyme, Where Is Pointer? The common song/game is played by singing; “Where is Pointer? Where is pointer?” And then you put up your pointer finger and say, “Here I am, Here I am. How are you, today sir? Very well, I thank you ...run away, run away...” Then you put your hands behind your back. I was taught the version:</p>
 <p>“Where is silencer?” With a finger held up to the lips commanding silence.</p>
 <p>“Where is kingpin?” With large pin inside the middle finger, that I was poked with just before singing, “run away, run away.”</p>
