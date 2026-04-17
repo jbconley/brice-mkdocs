@@ -13,7 +13,7 @@ It details the creation and eventual dismantling of a programmed "human robot" i
 ### How to Read This Book
 
 - The left sidebar contains all chapters in order.
-- Page numbers `**[p. xx]**` refer to the **original printed edition**.
+- Page numbers `[p. xx]` refer to the **original printed edition**.
 - Hover over footnotes (`[^1]`) and highlighted terms for additional context without leaving the page.
 
 ---

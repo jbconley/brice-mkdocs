@@ -1,0 +1,1778 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+        <link rel="canonical" href="https://jbconley.github.io/brice-mkdocs/chapter-29/">
+      
+      
+        <link rel="prev" href="../chapter-28/">
+      
+      
+        <link rel="next" href="../chapter-30/">
+      
+      
+        
+      
+      
+      <link rel="icon" href="../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.6">
+    
+    
+      
+        <title>Chapter 29: Back to the Future - Brice Project</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/main.484c7ddc.min.css">
+      
+        
+        <link rel="stylesheet" href="../assets/stylesheets/palette.ab4e12ef.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#chapter-twenty-nine-back-to-the-future" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href=".." title="Brice Project" class="md-header__button md-logo" aria-label="Brice Project" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Brice Project
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Chapter 29: Back to the Future
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m17.75 4.09-2.53 1.94.91 3.06-2.63-1.81-2.63 1.81.91-3.06-2.53-1.94L12.44 4l1.06-3 1.06 3zm3.5 6.91-1.64 1.25.59 1.98-1.7-1.17-1.7 1.17.59-1.98L15.75 11l2.06-.05L18.5 9l.69 1.95zm-2.28 4.95c.83-.08 1.72 1.1 1.19 1.85-.32.45-.66.87-1.08 1.27C15.17 23 8.84 23 4.94 19.07c-3.91-3.9-3.91-10.24 0-14.14.4-.4.82-.76 1.27-1.08.75-.53 1.93.36 1.85 1.19-.27 2.86.69 5.83 2.89 8.02a9.96 9.96 0 0 0 8.02 2.89m-1.64 2.02a12.08 12.08 0 0 1-7.8-3.47c-2.17-2.19-3.33-5-3.49-7.82-2.81 3.14-2.7 7.96.31 10.98 3.02 3.01 7.84 3.12 10.98.31"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 7a5 5 0 0 1 5 5 5 5 0 0 1-5 5 5 5 0 0 1-5-5 5 5 0 0 1 5-5m0 2a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3m0-7 2.39 3.42C13.65 5.15 12.84 5 12 5s-1.65.15-2.39.42zM3.34 7l4.16-.35A7.2 7.2 0 0 0 5.94 8.5c-.44.74-.69 1.5-.83 2.29zm.02 10 1.76-3.77a7.131 7.131 0 0 0 2.38 4.14zM20.65 7l-1.77 3.79a7.02 7.02 0 0 0-2.38-4.15zm-.01 10-4.14.36c.59-.51 1.12-1.14 1.54-1.86.42-.73.69-1.5.83-2.29zM12 22l-2.41-3.44c.74.27 1.55.44 2.41.44.82 0 1.63-.17 2.37-.44z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href=".." title="Brice Project" class="md-nav__button md-logo" aria-label="Brice Project" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    Brice Project
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href=".." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Home
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter-01/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    1. The Creation of a Human Robot
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter-02/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    2. Early Childhood Preparation
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter-03/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    3. We’re Off to See the Wizard
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter-04/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    4. Uncle Charlie, Kissinger, Hope and their Little Puppet
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter-05/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    5. Initiation into the Political Arena as a Sex Slave
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter-06/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    6. JFK and the Sex Shuttle
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter-07/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    7. All the way with LBJ
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter-08/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    8. Brain Surgery at UCLA took away my Father’s Free Will
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter-09/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    9. They didn’t see me as Human
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter-10/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    10. Introduced to Governor Ronald Reagan
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter-11/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    11. Mind Control in the Prisons b
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter-12/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    12. title
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter-13/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    13. title
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter-14/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    14. title
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter-15/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    15. title
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter-16/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    16. title
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter-17/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    17. title
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter-18/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    18. title
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter-19/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    19. title
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter-20/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    20. title
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter-21/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    21. title
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter-22/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    22. title
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter-23/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    23. title
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter-24/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    24. title
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter-25/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    25. title
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter-26/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    26. title
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter-27/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    27. title
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter-28/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    28. title
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    29. title
+  
+
+    
+  </span>
+  
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    29. title
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#more-high-tech-classified-projects" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        More High Tech Classified Projects
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#telepathic-experiments" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Telepathic Experiments
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#further-adventures-along-the-california-coast" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Further Adventures Along the California Coast
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#mind-control-adventures" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Mind Control Adventures
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#fun-in-the-sun" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Fun in the Sun?
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#working-girl" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Working Girl
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#point-mugu-demonstrations" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Point Mugu Demonstrations
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#point-mugu-naval-weapons-station-and-dolphins" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Point Mugu Naval Weapons Station and Dolphins
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#dolphin-programming-and-pornography" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Dolphin Programming and Pornography
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#the-star-spangled-banner" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        The Star-Spangled Banner
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter-30/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    30. title
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter-31/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    31. title
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter-32/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    32. title
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter-33/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    33. title
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter-34/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    34. title
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter-35/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    35. title
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter-36/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    36. title
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter-37/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    37. title
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter-38/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    38. title
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter-39/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    39. title
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#more-high-tech-classified-projects" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        More High Tech Classified Projects
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#telepathic-experiments" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Telepathic Experiments
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#further-adventures-along-the-california-coast" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Further Adventures Along the California Coast
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#mind-control-adventures" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Mind Control Adventures
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#fun-in-the-sun" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Fun in the Sun?
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#working-girl" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Working Girl
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#point-mugu-demonstrations" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Point Mugu Demonstrations
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#point-mugu-naval-weapons-station-and-dolphins" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Point Mugu Naval Weapons Station and Dolphins
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#dolphin-programming-and-pornography" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Dolphin Programming and Pornography
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#the-star-spangled-banner" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        The Star-Spangled Banner
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+<h1 id="chapter-twenty-nine-back-to-the-future">Chapter Twenty-nine: Back to the Future</h1>
+<h2 id="more-high-tech-classified-projects">More High Tech Classified Projects</h2>
+<p>In 1985, after a head-on collision and the ensuing healing process necessitated by the auto accident, my direction and course were irrevocably altered. I left my position in my husband's dental practice, returned to college and attended Pepperdine University in Malibu to begin classes to fulfill the requirements for a degree in Psychology. But as always, in addition to the coursework leading to my degree was an alternate, hidden agenda, planned and orchestrated by my controllers. Along with attending classes at Pepperdine, I was used in the Malibu area for experiments that furthered parapsychology research, as well.</p>
+<p>At Pepperdine there were experiments and research on the nature of higher consciousness, how the brain intercepts thought, why some brains process higher thought and others don't, how pure diet and water affects the brain, the effects of meditation on the brain, remote viewing and out-of-body experiments. I was programmed to meet with a group in a small room at the University where we watched movies. My attendance was carefully tied to my use in the projects and with Ronald Reagan. There were others in the room robotically watching the movies. They treated us like monkeys.</p>
+<h2 id="telepathic-experiments">Telepathic Experiments</h2>
+<p>Among other things at Pepperdine, tests were done on studying and learning in altered states of consciousness. I began reading endless books on psychic phenomena and began being psychically trained and further experimented on. Each day at lunch I reported to the large cross that graces the hillside at the University, in order to sit in the small area inside and go into a meditative state. I did this each and every day and felt as if I was communicating with the whales and dolphins in the vast ocean that spanned the panoramic view from that location.</p>
+<p>Part of the experiments focused on telepathic communication and my controllers were sending messages to me via satellite systems to see if I could pick them up. They tasked me with these assignments that had to be performed in the ocean or near the ocean so it would be easier to pick up the telepathic messages sent over the airwaves that they were broadcasting to me. There were times I consciously thought I was just going to go for a drive, to have the day to myself, when in reality I was instructed and directed to different locations. One day I drove into a remote canyon high in the hills above Malibu. I positioned myself on top of a mountain in my beach chair and sat all by myself and read a book on Edgar Cayce. When I looked to the sprawling mountaintops, my eyes focused on all sorts of satellite dishes and instrumentation on the hill in front of me. After spending a few hours there I returned to my home in Agoura Hills. Later that day, the phone rang. I picked it up and a man asked me questions before saying, "We see you picked up the message about where to go today and followed our instructions impeccably. Good work and be waiting for the next set of instructions." Click, he hung up. Robotically I hung up the phone and went on like nothing had happened. Immediately this slice of reality submerged itself deep within the programmed recesses of my mind, and was kept there until a later time when I was reaccessed.</p>
+<p>There were many places I was telepathically directed to in response to messages sent to me by my controllers. Often I was led to believe that incarnate guides and masters were leading me when I was really being led by the men who were instilling these thoughts in order to direct me to various places where they wanted me.</p>
+<h2 id="further-adventures-along-the-california-coast">Further Adventures Along the California Coast</h2>
+<p>[p. 256] 
+The American government seemed to be willing to sell anything, including children, to foreign countries in order to gain monies to fund the mind control and other research projects. Reagan presented it saying that it was the only way we would survive - that we would all be killed by nuclear destruction at the hands of these "foreign morons" unless we were able to have more control, and the mind control projects insured American safety. He made it sound like something the United States had to have to stay a safe and free nation. But the Council knows the bigger picture lies beyond what Reagan thought was "national security." It was really an international takeover by a group of megalomaniacs who have decided to insure the future for their own genetically advanced progeny. From my perspective, it had nothing to do with American freedom or safety. But Reagan was a pawn and didn't have all the information or know about the Council's higher agenda. If he had, he would have known the United States was being duped.</p>
+<p>Reagan sent for me and I was picked up, once again at noontime, while I was 'meditating' under the cross at Pepperdine, in order to be taken for demonstration to men from all over. They were usually small groups because Henry or the Council was working that angle, too, putting together different foreign scientists or foreign leaders who would naturally be competitive so they could get the most out of them. Often Reagan, or a military officer, would explain the project to them as a group and they would toy with their national pride and play off their natural competitiveness and ego. Then after the meeting, one of our people would take them aside, into a separate room and tell them we were interested but that such and such a country (Saudi Arabia for example) had more to offer. They worked them like that to get more cooperation in hopes that maybe the leader or scientist would offer more favors, resources, connections, etc., so we would get even more out of the deal. Henry really knew how to work people, and he knew how to be very convincing. He told Reagan and others that it was all for national security, American safety, and these men all believed it, they all thought Henry was so smart and so proAmerican, but he never really was. He just talked that way to get people to do what he and the Council wanted. "Reagan isn't a robot, but he might as well be," Kissinger said. I'm not so sure.</p>
+<p>During the '80s I was keyed to a computer in my bedroom, where I began to get instructions at home from the Council. I didn't think I was very good at computers since I'd taken a computer class and felt I really couldn't learn the technology. But while the "I," the conscious part of my personality, was unaware of my computer proficiency, other parts were completely in tune! Upon awakening, before I brushed my teeth, I was instructed to report to my computer. It displayed a symbol if I had instructions and was to continue for further instructions. They made it simple for me to access. There were codes for ‘regulars,’ people I met with weekly, like some of the movie stars in Malibu and Beverly Hills. I was given schedules and lists of people to meet, or to be expecting to meet, and dates to be at certain places at certain times, so I would know to have my hair done, nails polished, what time, location, etc. I didn't any longer have to report to the room at the Holiday Inn; I could get my instructions from home. After the mid '80s, my controllers began accessing me more directly without Craig being so much in charge. They took more direct control.</p>
+<p>Often my instructions were to wait in meditation beneath the cross at the University. I was used heavily during this time, and spent less and less time with my family. Men in suits or men that looked and dressed like they were gardeners at Pepperdine would come up to me and give me messages while I was in a meditative state. Later, men in suits would pick me up, tapping me in code on my shoulder two or three times, after which I would get up and go with them. This particular time, the men drove me to weapons warehouses where I delivered detailed messages to arms dealers and recorded their responses to take back. Lots of foreign countries' arms 'deals' took place in warehouses, at least the original dealings. After that I would take the message back and deliver it that night wherever I was directed. Then I would return home in the evening to my family, having thought I had 'studied' in the university library the whole day. Fat chance!</p>
+<p>[p. 257] </p>
+<h2 id="mind-control-adventures">Mind Control Adventures</h2>
+<p>An Iran-Contra arms trade took place in a warehouse in Santa Monica. Nothing was ever to have been traced back to Reagan because it was to have been a covert operation to raise funds for other projects, "research projects." They felt justified in selling arms to anyone, including our enemies, because they felt that the days of armed conflict were over. Instead we could now win wars using our high tech psychological, chemical and electronic warfare, if we ever needed to, and be able to use mind control technologies to insure the enemy laid down their weapons. But in the meantime, we could sell them comparatively obsolete weapons and make money for furthering the research in mind control.</p>
+<p>Lots of drug and arms deals took place in warehouses in California, especially in and near Santa Monica and Malibu. A lot of foreign connections were made in order to increase the funds for the continuation of the research projects. And they used the mind-controlled robots they had created to earn money for them. Many, many people are under mind control and have been working for them for years men and women who are dentists, attorneys, stockbrokers, doctors, psychiatrists, psychologists, politicians, bankers, corporate heads, engineers, newspaper editors or owners, nurses, teachers, principals, etc. etc. etc. And all these programmed people are used to further "the cause," each placed in strategic positions for use by the Council.</p>
+<p>The technology available is so advanced that most people couldn't even dream of it. It far surpasses anything yet seen on sci-fi movies or read about in books -- total automation, even of people.</p>
+<p>They put mind control operatives into jobs that included travel and then used them internationally to further their cause. They felt there was no way that they couldn't succeed since so many are now under their complete control and are able to be controlled by universal signals, enabling them to put certain words, phrases, or symbols into the current media (movies, television, newpapers, music, etc.) and the mind-controlled robots are programmed to step up their pace. Certain words have been paired through programming to different tasks these robots are assigned to do. So all they have to do is to hear the word combinations, tones, frequency, etc., and they can all be commanded within a very short time to carry out their programmed instructions.</p>
+<h2 id="fun-in-the-sun">Fun in the Sun?</h2>
+<p>At other times I would report to Zuma Beach and think I spent the day relaxing in the sun by myself. In actuality I climbed out of my beach chair and walked out into the surf, swam into the waves, sometimes for long distances, easily and effortlessly, as my programming commanded, to meet a boat just outside the wave break. A man in the boat who helped me on board, dripping wet, handed me a towel and once said, "My, but you must be an important person." I couldn't comprehend or respond because I was in total program and this event ‘wasn't really happening.’</p>
+<p>He drove me to Point Mugu and apologized when due to large surf conditions he couldn't get in closer when we neared the rear entrance. I told him not to worry that I was used to swimming long distances and was adept at swimming waves. I told him I'd just use the waves to get me in easily. I had a program that rendered my body incapable of feeling the temperature of the water, so I could enter very cold water and not get cold. So I dove off the boat in my bikini and swam to shore. There were some pens and an underwater screen that I knew to swim around to get to the shore. I walked onto the beach area, to the cement and the chain link fence, then waited until a man in a white naval uniform let me in and escorted me to an outside shower they used when they swam. He took me inside to a bathroom, where I found a naval uniform, white blouse with navy blue and gold trim, and a white skirt and navy blue heels neatly piled up for me to wear. My hair was trimmed every 4 weeks so that I could just run my fingers through it and it would look okay, since it was naturally curly. The same officer took me through an area where they used a metal scanner on me for security purposes and I had to pass through a light monitor and did [p. 258] so with flying colors. Then I was escorted in to see whomever I was to report to - an officer, Commander, Reagan or sometimes Bush. But this time I was there to meet Reagan and to be demonstrated to a group of foreign scientists they wanted to recruit for research.</p>
+<p>I was put into a clear cylindrical capsule, maybe for show, and then Reagan showed these men how I reacted upon command. He demonstrated the use of my mind files by quickly asking me for detailed information and descriptions of schematics. I performed up to speed, dictating to them the elaborate 3-D holographic craft images that I was viewing in my head. All the men clapped. In the beginning they had to condition me to the clapping because it flipped me out and switched me, and then I would be surprised to find myself where I was. Usually after the demonstrations were finished, Reagan would limo me out with him and we went for a quick sexual encounter somewhere, locally. Later, they put me into another car and dropped me back at the beach, where I changed once again into my bikini. Lying on my beach chair, enjoying the California sun, I obeyed my program that commanded, "Slowly come out of the meditative state."</p>
+<p>Later when I returned home I would stand in front of my computer and hit the buttons I was programmed to select in order to type in a message or answer from Reagan or whomever I had been with, so Henry would get the message. I don't know how it worked but there would often be an instant reply typed back on the screen, coupled with a command to "erase the day, that it was a relaxing day in the sun and surf."</p>
+<h2 id="working-girl">Working Girl</h2>
+<p>There were times I was taken by the life guard boat to Point Mugu and escorted to a Captain's quarters to be used. They gave me other clothes to wear and then helicoptered me to Reagan's Ranch, usually for meetings with foreign leaders. And when Henry wasn't there (he often wasn't), I was there standing in for him, but the attendees thought I was a secretary to Reagan. Reagan relied on information I had in my mind files, put there for his access by Kissinger. Kissinger ran large portions of the foreign diplomacy of the United States Government by sending me to these meetings.</p>
+<p>Over the years when people like Rebozo, Sinatra and Bush wanted to take me out (kill me), Henry would stop it because he and the Council had worked years, even decades, to set up the connections I had with people. Henry had key robots in key situations so that everyone was working in perfect three-part harmony. I had been put close to U.S. government leaders, British royalty, Margaret Thatcher, and leaders of other countries, and these relationships were "seasoned with time," Henry would say, and so he wanted to keep me in as long as possible. Henry said these relationships were priceless because these contacts knew and trusted me over time, with no ill effects, so in the future they would share information with me about more important things without worry.</p>
+<p>Henry had me tested often, especially after the accident and when I began psychotherapy full time. I was breaking down but they were building me back up in other directions without my missing a beat in my assignments. My personalities who were close to foreign leaders had not had the accident and were cut off from that experience. Instead they enjoyed total health and well being in order to continue their work. Different personalities had been created for different leaders so Henry could easily instill new information or messages, yet retain the personality as it had been created especially for the individual leaders.</p>
+<p>I was flown by helicopters that took off from naval ships out at sea, into foreign countries to be the connection maker for munitions or drug transactions with various countries - Columbia, Bolivia, Mexico, Jamaica - I can't remember them all. But I was dressed in a military uniform and flown in helicopters down into these places to deliver messages, usually to a man in uniform who was heavily guarded. But here again, they didn't have a clue that our country possessed weaponry that looked like anything but [p. 259] weapons - that couldn't even be seen: invisible weapons that could drop people to their knees and render them incapable of functioning. No need to kill them, just send targeted energy and control their brain wave activity.</p>
+<p>I remembered a time when the pilot called to a foreign bank to see if the money was in the account before he would release the sale of weapons. Money was made not only on the sale of the weapons, but even more on the financial arrangements made that created huge revenues from the interest on the loans to desperate countries, willing to pay whatever it took to save the lives of their people. So they paid top dollar for the weapons and paid interest on the loans in addition. All this was planned, down to the instigation of wars that would create an international weapons market. It also kept nations busy buying obsolete weapons America said were the best. We kept them looking the other way as we were secretly using the copious profits from the sales to fund more mind control research, so the plan for the world takeover could be implemented. All this was done by very smart and manipulative people who used very strategic planning. Saudi Arabia and other foreign countries inadvertently funded a lot of NASA research and, when there were arms embargoes or other embargoes, all it meant was the price was forced up and the United States made even more money.</p>
+<h2 id="point-mugu-demonstrations">Point Mugu Demonstrations</h2>
+<p>After demonstrations at the circular arena in Point Mugu, Reagan left in a limo with Secret Service agents flanking him heavily because of the assassination attempt. I was escorted out and after the agents put Reagan into the back of the limo, one of the agents took the passenger spot in the front seat opposite the driver and gave him instructions on where to go. Then, after some of the agents left to report to their next duty, a remaining agent opened the back door and put me in next to Reagan and we were off. The glass was put up between the front and back seats before I got in.</p>
+<p>Reagan became very good at saying things to me in order that I might feel like he was being polite, when he was really getting around the fact that I wasn't allowed to eat. One day we were taken to a fish restaurant in Malibu on a Monday, when the restaurant was normally closed, but they opened it for the opportunity of serving the President. Reagan went in first with a phalanx of Secret Service agents flanking him on all sides. You couldn't even see him in the group and after he was seated in a secluded booth in the back I was brought in and they told the waiter I was his visiting niece. With a towel on his arm, the waiter asked Reagan, "And what will the young lady be eating this afternoon?"</p>
+<p>Reagan looked at me and I said, "Thanks, but I've already eaten."</p>
+<p>Then he made some joke about it as he began eating his fish, carrots, rice and salad. I sat and smiled at him while he ate, and listened intently. When he was finished, the Secret Service took care of the bill and he was escorted back out to the limo in the same way he went into the restaurant - then they put me back beside him. Our next destination was a grouping of small rustic cottages along Pacific Coast Highway. The driver drove around back and the Secret Service agents went to the room first, opened it, checked it out, and then came back to the car. opened my door, escorted me in, shut the door and I waited, parked in robotic mode, while they Reagan in.</p>
+<p>After the agents left the room, Reagan commented that he liked the place, that it reminded him of the Ranch. He took my right hand and asked, "Should we do our dance?"</p>
+<p>"You bet," I answered. So he twirled me around several times, for programming purposes and then laid me on the bed. I was wearing a white pantsuit with fancy tassels on the front and short white boots. He had given me a Reagan watch to wear for the day, but later the agents took it away. Reagan loved the watch. He unbuttoned my shirt as he lay on the bed next to me and went directly for my belly button and began tracing his fingers around my navel. Waiting for my programming to kick in, he laid on his back for me to satisfy him. Afterwards, he took a short nap and then sent me out to notify the agent [p. 260] who was waiting in the limo. The agent snapped to attention and directed the driver to get into position, and they escorted Reagan back to the limo.</p>
+<p>We took off down Pacific Coast Highway again and they stopped to drop me off at a gas station in Malibu, where I met a man in an unmarked car who drove me back to the cross at Pepperdine. When he let me out he said, "Weren't you meditating?" In response, I robotically walked under the cross and sat there again. He yelled, "Not too long!" and drove off. I stood up, totally unaware I had been with anyone, thinking I had only been in deep meditation for a long time. I found my car and drove through the canyon home where, with the help of our maid, I prepared dinner. I was pretty out of it.</p>
+<p>I was used with Reagan hundreds of times if not more, ever since I was a teenager. He knew that I had to have time in between when he used my mind files for demonstration or information and sex. So having a leisurely lunch provided the time necessary. A cue or signal had to be given to shut down the mind files and then, from that time on, a certain amount of time had to elapse before sex. Once he was President, the Pepperdine cross served as a pick-up point where I was taken to cabins, cottages, or out of the way homes to be with him sexually after the Council had input me with information for him via my home computer. Many messages were phoned to me by Bob, or more often Henry, when they were of a political nature, because political details were more complicated and took more time than the simple well-grooved routines of sexually satisfying stars or political friends of Bob's.</p>
+<p>In the early '80s I also rendezvoused with Reagan for sex on nights I drove off by myself in the car, telling my husband I needed to learn to become more independent. I got in my car and played the ‘metaphysical game' I learned from books I was suggested to read. For example, I just drove spontaneously and magically stopped when it ‘felt right.’ One evening, it just 'felt right' to stop at a very expensive hotel in Santa Barbara and I checked into a room and waited for Ronnie. Naturally, before he got there two men in suits, carrying briefcases full of programming equipment, let themselves into my hotel room and tortured me in preparation for the President.</p>
+<p>Another time it just 'felt right’ to stop at a large hotel near the pier in Santa Monica, where again, I met with Reagan.</p>
+<h2 id="point-mugu-naval-weapons-station-and-dolphins">Point Mugu Naval Weapons Station and Dolphins</h2>
+<p>I remembered being on a gurney at Point Mugu, with a white sheet over my body, a white electrode cap over my head and an IV in my arm. I was hooked up to electrodes all over my scalp and on my wrists and they were having me listen to whale and dolphin sounds via headsets. Huge banks of audio equipment and big tapes on recorders were all running. They often played music or sounds in one ear and tones or word instructions in the other. Sometimes the sound was excruciatingly loud in one ear and nearly inaudible in the other. The words were barely audible but I often tried really hard to listen to what was being played in my ear, though it was impossible to hear. The loudness hurt my ear and the two extremes coupled together nearly drove me crazy.</p>
+<p>There were dolphins in tanks at Point Mugu that were also used in research. At times, they also had electrodes on their heads. I think they were attempting to measure thoughts and telepathic communication. At one point they directed me to send a message to the dolphin with my mind, and then listen and decode the language of the dolphin's reply. They tried it with whale language also. The swim programs that allowed me to swim long distances without tiring, were also coupled with the hypnotic suggestion that I was like a dolphin and could swim forever like one.</p>
+<p>I think the dolphin research was a secondary project, and among other things was a project to further U.S. Intelligence technology in telepathy. The dolphin research continued because we could [p. 261] communicate long distance with the dolphins, sending messages, and when I received them, I was given a number to call immediately to report what I heard. They paired this need to report with having to go to the bathroom and once in the bathroom I would dissociate, switch personalities and phone in to report, sort of like "ET phone home."</p>
+<p>Just a week before my husband and I were getting ready to go on a sailing trip to the Channel Islands, I remembered performing a visualization I was taught, where in my mind, I pictured myself in the middle of a group of dolphin. I performed this whole process in an attempt to actually link up with the dolphin on our trip. Before we left, I told Craig I was going to have a dolphin experience! Low and behold, way out in the middle of the Pacific Ocean, a whole pod of dolphin swarmed our boat. When I saw them coming I got so excited that I slipped on my diving mask, and jumped off the boat into the middle of them. No one on board could believe my impulsive actions! It seemed that time stood still and I felt like I was held in a state of suspended animation as one large dolphin seemed to energetically link up with me. Time seemed to stand still and it was an amazing experience! After that I began to "see light in everything." I still don't have an understanding for exactly what happened, but I began having incredibly prophetic dreams and more psychic experiences. I believe this also was part of an experiment.</p>
+<p>There was extensive "dolphin programming" done on me. Movies, stills and motion pictures with beautiful music were shown, administered together with drugs they injected into my arm in order to put me in a state of utter euphoria while I was viewing the dolphin pictures. These movies and other positive stimuli reinforced good feelings that emerged in order to deter me from the Star Wars information. Dolphin programming covered the Star Wars Project. Whales covered a NASA project. This all-powerful programming was meant to keep me from accessing the information stored neatly in my brain away from my conscious awareness.</p>
+<p>There were movies I felt drawn to all of a sudden leave my family at night to attend. I went to different new age bookstores or other places where I was told to go to see dolphin movies, some very sophisticatedly created with music. A couple who created and traveled to share their dolphin movie, told the small audience to go into a meditative state and watch the film in order to gain expanded consciousness. The movie contained different geometric shapes shown along with the dolphins in underground cities. The dolphin theme was continued when I was living on the island of Kauai.</p>
+<p>President Reagan's project, STAR WARS, was located in my mind files under Dolphin programming. I accompanied Reagan lots of times to Point Mugu and other military bases, but Point Mugu was the original site where I would download top secret information from the mind files, first. Then I was taken to different bases all over, usually without Reagan, to deliver the same information, over and over and over again; all over the world to the major players. The Around the World In 80 Days movie and song was used to cover this activity. So I'd think of that movie and believe I was remembering that instead of my actual assignment. Other movies were used in an attempt to cover and intentionally scramble my experiences. As I retrieved memory of ways I was used, I sorted through the 'movie realities’ to discover what actually happened.</p>
+<p>Star Wars was a global network working together for global control. This network continued as I was transferred to the island of Kauai where I reported often to Barking Sands Missile Base.</p>
+<h2 id="dolphin-programming-and-pornography">Dolphin Programming and Pornography</h2>
+<p>Another auxiliary project, one that brought in proceeds, was dolphin pornography. Dolphin porn was filmed in Malibu and in the dolphin tanks at Point Mugu. It was convenient because they had cages already built and so the dolphins could be housed there for use almost anytime. Reagan really loved the dolphin stuff. He watched a porn video of Kelly and I with a couple of dolphins. During the viewing he smiled, patted my leg and said, "I'll be with you later." He wasn't into sex with children and didn't have [p. 262] sex with my daughter. When the film was over he said, "Watching you do underwater ballet is beautiful, but seeing you with the dolphin is out of this world!" He laughed and looked up, like he was seeing a missile or shuttle launch. Lots of dolphin porn was filmed. I believe Bob gave copies of it to Prince Charles, Prince Phillip and Margaret Thatcher, who is a lesbian.</p>
+<p>Over the years my daughter Kelly was often programmed next to me. We would be instructed to both touch our noses at the same time and then a shock would be delivered though the electrodes stuck all over our bodies. We both had IV's in our arms and despite the trauma, we were giggling like we were both drunk. She was very young and they continued this over the years. In addition to all the regular programming, they also programmed us to be a mother-daughter sex team. There was lots of programming laid in that made us believe that we were twin souls, "two peas in a pod." I was programmed to believe that half of me was in her and half of her was in me. There was lots of identity confusion. They programmed us to be totally synchronous, so we could flow together and work harmoniously while sexually servicing whomever they sent us to.</p>
+<p>Our controllers’ used the movie ET as a "screen memory" to cover memory of these actual experiences by telling Kelly and I that we were like ET and Elliot, and if one of us got free the other would die. The message given was, "If you get deprogrammed or a hospital frees you, you will get separated from each other for the rest of your lives. ET almost died and had to go to another planet away from Elliott. A wilted Chrysanthemum flower plant will remind you, it will wither and die if it's off the vine, away from its source."</p>
+<p>At three months old Kelly was able to float on her back with no assistance, and further swimming lessons early on enabled her to be an excellent swimmer, natural in the water. She also had programming that enhanced her natural swimming capabilities, enabling her to swim long distances. Kelly was good with the dolphins. She was specially trained this way from the time she was very small.</p>
+<p>Years later, in 1993, as I became aware that my children and I had been taken to Point Mugu for programming, I returned, trying to get a closer look in an attempt to understand what these people were doing. But it was heavily guarded; now I know why. Interestingly enough, last year on a plane flight, I had the opportunity to sit next to a man from California. I was spiritually guided to share with him my experience of programming at Point Mugu Naval Base. When I got to the part about the dolphin tanks and banks of recording equipment, his eyes widened and he said, "You must have been there; no one knows about those unless they have been there; it's a classified area." After our conversation he just kept shaking his head.</p>
+<p>My family and I bounced from Point Mugu to UCLA for programming often, and when necessary were taken to Edwards Air Force Base for further programming.</p>
+<h2 id="the-star-spangled-banner">The Star-Spangled Banner</h2>
+<blockquote>
+<p>Oh, say can you see by the dawn's early light</p>
+<p>What so proudly we hailed at the twilight's last gleaming. Whose broad stripes and bright stars through the perilous fight, O'er the ramparts we watched were so gallantly streaming.</p>
+<p>And the rockets red glare, the bombs bursting in air,</p>
+<p>Gave proof through the night that our flag was still there.</p>
+<p>Oh, say does that star-spangled banner yet wave</p>
+<p>O'er the land of the free and the home of the brave.</p>
+</blockquote>
+<p>Yeah, it still waves, but not over the land of the free and the home of the brave.</p>
+<p>[p. 263] 
+"Fear them not therefore: For there is nothing covered that shall not be revealed; nothing hid, that shall not be known. " -- Matthew 10:26</p>
+<p>[p. 264] </p>
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Back to top
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      &copy; 2026 Brice Project. All rights
+    </div>
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+        
+<div class="md-social">
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://github.com/" target="_blank" rel="noopener" title="github.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M173.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6m-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3m44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9M252.8 8C114.1 8 8 113.3 8 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C436.2 457.8 504 362.9 504 252 504 113.3 391.5 8 252.8 8M105.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1m-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7m32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1m-11.4-14.7c-1.6 1-1.6 3.6 0 5.9s4.3 3.3 5.6 2.3c1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2"/></svg>
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "..", "features": ["content.code.copy", "content.footnote.tooltips", "navigation.sections", "navigation.indexes", "navigation.top", "search.suggest", "search.highlight", "toc.follow"], "search": "../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="../assets/javascripts/bundle.79ae519e.min.js"></script>
+      
+    
+  </body>
+</html>

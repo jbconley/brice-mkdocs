@@ -21,7 +21,7 @@ One night when they put Krisha and Whitney in the lineup, it was Whitney's first
 
 "If you step out of line, you always pay the price, maybe with your life." Lasorda said. Then they took Whitney out of the line and into a side room, and we could all hear her screaming and crying.
 
-**[p. 240]** 
+[p. 240] 
 Lasorda said to those of us remaining, "We won't have that problem anymore, will we." He was very brutal.
 
 When they brought Cyndy back into the room, Lasorda said Cyndy's behavior had caused Whitney to get hurt. He said, "If the mother had acted respectably, there wouldn't have been a problem."
@@ -46,7 +46,7 @@ I never did end up watching much of the ballgames. If I tried I couldn't concent
 
 They looked at me like I was retarded and laughed in embarrassment for my question, and then explained, "Those are the umpires." I didn't know. I was just obeying program.
 
-Craig took me to the Dodger games, but I never wanted to go. I hated to go, but had no reason I could "think" of for not liking or attending the games. Sometimes our small children would go with us, **[p. 241]** and then they would show up in the "Dodger lineup" to be used by the Dodgers for sex. I felt very out of control, despite the mind control I was under. Personalities inside of me didn't know how my children got there or how they would get home or if they would be safe or killed. Craig stood and watched like a zombie and often had this strange, nervous laugh that happened when he was anxiously trying to be a part of things. We were both totally helpless to think or act in order to protect our children or ourselves.
+Craig took me to the Dodger games, but I never wanted to go. I hated to go, but had no reason I could "think" of for not liking or attending the games. Sometimes our small children would go with us, [p. 241] and then they would show up in the "Dodger lineup" to be used by the Dodgers for sex. I felt very out of control, despite the mind control I was under. Personalities inside of me didn't know how my children got there or how they would get home or if they would be safe or killed. Craig stood and watched like a zombie and often had this strange, nervous laugh that happened when he was anxiously trying to be a part of things. We were both totally helpless to think or act in order to protect our children or ourselves.
 
 Tommy Lasorda was connected to a lot of mob-type men. They were always around Dodger Stadium in their suits with concealed weapons.
 
@@ -58,7 +58,7 @@ This particular Dodger owner didn't like to be seen in public. He didn't operate
 
 Reagan came to the Stadium on occasion. He often met with Hope. They met in the restaurant there when the restaurant was closed to the general public and made plans. I know because I was witness to their conversations as I sat with them. Sometimes my job was to listen and correct them if anything they said went against something in my data/mind files. These deals were connected up to whoever was in the White House at the time. Reagan, Ford, and Bush were all there at different times. With the Presidents, it seemed that there was already built into this corrupt drug/porn network a place or slot for the highest levels of government - the President - because the people who were Presidents came and went, but the job they did was always the same. It seemed like the stadium was a place where they could meet undetected or something.
 
-**[p. 242]** 
+[p. 242] 
 On occasion I was flown away in a helicopter with Secret Service agents and taken to DC and debriefed or given new information to deliver somewhere else around the country. Then I was flown home.
 
 Leaders from all over met at the Dodger Stadium. It was where the U.S. Government, White House level and state level, met with the Mob drug connections and made "deals." These deals were made with people and leaders from all over the world. No one ever knew they were there as they were limoed or helicoptered in and out at precise times--carefully coordinated and timed by the Secret Service.
@@ -75,4 +75,4 @@ Porn of Cyndy and I was filmed on a private beach in Malibu. I was picked up in 
 
 "Our love must not be a thing of words and fine talk. It must be a thing of action and sincerity." -I John 3:18
 
-**[p. 243]** 
+[p. 243] 

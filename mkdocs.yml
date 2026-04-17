@@ -1,4 +1,5 @@
 site_name: Brice Project
+site_url: https://jbconley.github.io/brice-mkdocs/
 
 nav:
   - Home: index.md
@@ -13,41 +14,42 @@ nav:
   - 9. They didn’t see me as Human: chapter-09/index.md
   - 10. Introduced to Governor Ronald Reagan: chapter-10/index.md
   - 11. Mind Control in the Prisons b: chapter-11/index.md
-  - 12. title: chapter-12/index.md
-  - 13. title: chapter-13/index.md
-  - 14. title: chapter-14/index.md
-  - 15. title: chapter-15/index.md
-  - 16. title: chapter-16/index.md
-  - 17. title: chapter-17/index.md
-  - 18. title: chapter-18/index.md
-  - 19. title: chapter-19/index.md
-  - 20. title: chapter-20/index.md
-  - 21. title: chapter-21/index.md
-  - 22. title: chapter-22/index.md
-  - 23. title: chapter-23/index.md
-  - 24. title: chapter-24/index.md
-  - 25. title: chapter-25/index.md
-  - 26. title: chapter-26/index.md
-  - 27. title: chapter-27/index.md
-  - 28. title: chapter-28/index.md
-  - 29. title: chapter-29/index.md
-  - 30. title: chapter-30/index.md
-  - 31. title: chapter-31/index.md
-  - 32. title: chapter-32/index.md
-  - 33. title: chapter-33/index.md
-  - 34. title: chapter-34/index.md
-  - 35. title: chapter-35/index.md
-  - 36. title: chapter-36/index.md
-  - 37. title: chapter-37/index.md
-  - 38. title: chapter-38/index.md
-  - 39. title: chapter-39/index.md
+  - 12. Nixon, Kissinger, and International Business: chapter-12/index.md
+  - 13. Bob Hope “Let me entertain you.”: chapter-13/index.md
+  - 14. Parties at the Rockefellers: chapter-14/index.md
+  - 15. Hope and Kissinger Utilize the Kennedy Family: chapter-15/index.md
+  - 16. Viva Las Vegas: chapter-16/index.md
+  - 17. The Rat Pack: chapter-17/index.md
+  - 18. Gerald Ford: chapter-18/index.md
+  - 19. My Programmed Marriage — We’ve Only Just Begun: chapter-19/index.md
+  - 20. Jimmy Carter: chapter-20/index.md
+  - 21. The Hollywood Connection: chapter-21/index.md
+  - 22. Prince Phillip, Prince Charles, and Princess Di: chapter-22/index.md
+  - 23. They Stole My Baby: chapter-23/index.md
+  - 24. USC: Higher Education or Mind Control: chapter-24/index.md
+  - 25. Baby Monarchs are Born: chapter-25/index.md
+  - 26. Dodger Diamonds: chapter-26/index.md
+  - 27. Education 2000: chapter-27/index.md
+  - 28. Reagan, Kissinger, Bush and More Horrors: chapter-28/index.md
+  - 29. Back to the Future: chapter-29/index.md
+  - 30. UCLA Neuropsychiatric Institute: chapter-30/index.md
+  - 31. Weaponry Technology of the Future: chapter-31/index.md
+  - 32. Robot Breakdown: chapter-32/index.md
+  - 33. Bill Clinton and Hillary: chapter-33/index.md
+  - 34. Excuse Me, I Would Like My Life Back: chapter-34/index.md
+  - 35. Secret Societies: chapter-35/index.md
+  - 36. The Council’s Plan: chapter-36/index.md
+  - 37. What the World Needs Now: chapter-37/index.md
+  - 38. A Mother and Grandmother’s Sorrow: chapter-38/index.md
+  - 39. Epilogue: chapter-39/index.md
 
 theme:
   name: material
+  use_directory_urls: false
   palette:
     - scheme: default
-      primary: indigo
-      accent: indigo
+      primary: brown
+      accent: orange
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
@@ -59,8 +61,7 @@ theme:
         name: Switch to light mode
   features:
     - content.code.copy
-    - content.footnote.tooltips      # Floating hover footnotes
-#     - content.tooltips               # Inline hover tooltips
+    - content.footnote.tooltips
     - navigation.sections
     - navigation.indexes
     - navigation.top
@@ -80,11 +81,14 @@ markdown_extensions:
       alternate_style: true
 
 extra_css:
-  - extra.css
+  - stylesheets/extra.css
 
 extra:
+  meta:
+    - name: robots
+      content: noindex, nofollow
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/   # replace with your repo if you have one, or remove
+      link: https://github.com/
 copyright: >
-  &copy; 2026 Brice Project. All rights 
+  &copy; 2026 Brice Project. All rights

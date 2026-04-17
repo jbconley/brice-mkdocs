@@ -7,7 +7,7 @@ weight: 39
 
 ## A New Vision for the Future
 
-What initially began as journaling in order to sort out my mind, became more of a project once I began to break free and see that there was some insane organized plan behind the mysteries of my life. The singularity of my one voice has been lonely over the years, but there were moments when the good Lord caused my path to cross with at first one, and then two, and then whole groups full of beautiful but wounded persons who had been through similar experiences. Together all of our voices, telling the same truths, have gained strength over the years. And today I am not alone in my recovery, for I have many brothers and sisters all over the globe that have recovered to inform you of much the same grim picture that I have shared with you here. I have spent the last 14 years cataloging this information, and am now able to report to you what has been going on behind the scenes so that the truth might set us all free. God only knows the full ramifications of what has occurred, but this information that I have presented to you in the clearest manner I know how, will give you a glimpse of the plans and agenda of those who at the **[p. 322]** present time are not only pulling the purse strings, but are manipulating the very life force of the nation and ultimately of the world.
+What initially began as journaling in order to sort out my mind, became more of a project once I began to break free and see that there was some insane organized plan behind the mysteries of my life. The singularity of my one voice has been lonely over the years, but there were moments when the good Lord caused my path to cross with at first one, and then two, and then whole groups full of beautiful but wounded persons who had been through similar experiences. Together all of our voices, telling the same truths, have gained strength over the years. And today I am not alone in my recovery, for I have many brothers and sisters all over the globe that have recovered to inform you of much the same grim picture that I have shared with you here. I have spent the last 14 years cataloging this information, and am now able to report to you what has been going on behind the scenes so that the truth might set us all free. God only knows the full ramifications of what has occurred, but this information that I have presented to you in the clearest manner I know how, will give you a glimpse of the plans and agenda of those who at the [p. 322] present time are not only pulling the purse strings, but are manipulating the very life force of the nation and ultimately of the world.
 
 We find ourselves at a time when, in order to survive and insure that our freedoms are reinstated, we must take action. It no longer serves us as a nation and as a world to turn a deaf ear to what has occurred. These actions taken by those whose consciousness is dwarfed by the belief in power and control have, in actuality, called us to a new time of choice. We stand at the crossroads of a new era, indeed a new millennium. And now it is truly our choice as to where to go from here. Will we continue to be uninvolved, feeling that the chaos, created intentionally to confuse and disrupt, has caused our world to seem so unbalanced and turbulent that we feel we don't know how to choose, that we don't know which way to turn? Or will we see clearly through the chaos and confusion, and rise above their smokescreen attempts to hide their New World Order plan to enslave the human race, so we can create another option? We do have many choices. As a matter of fact, what these controllers have led us to is a clear view of what needs attending to anyway, in our technologically advancing world. Armed with the information of what is askew, we can now right the wrongs and clearly envision what could be. The lives of our children and future generations depend upon the choices we make at this pivotal juncture.
 
@@ -17,7 +17,7 @@ God has called me to sound the wake up call as I join with others around the nat
 
 The Holy Spirit has shown me that once you have completed this book and the veil that once clouded your eyes has been lifted, many will know how they are called to bring about the swift change necessary for averting the One World Government and the intended totalitarian New World Order agenda planned by our controllers. He has shown me that many will know their exact positions and will know just what part they are to play in reuniting this once strong, free nation. Indeed the vision I see is a beautiful orchestration of souls. May God bless those individuals with the courage, wisdom, insight, and love needed to set us back on course. You who are called know who you are and will remember why you've come. Let us stand as a united front to speak out and take action to protect one of the most precious gifts we each have: our minds. We must stand up to those who seek control and say, "NO MORE. THIS ABUSE MUST STOP!" It is time to cast our denial aside and take action as we are spiritually directed. For we have been called to protect the children.
 
-Please join me in united solidarity. Let's create a safer, beautiful world where children can be born into peace, safety, and love. If we start at the beginning where life initiates and insure that doorway is clear, we will go a long way toward insuring the survival of the human race. Many are now more aware of the damage done to a baby or young child when abuse occurs. Indeed this unconscious state of the abuse **[p. 323]** of children continues to snowball as one generation takes the wounding, only to inflict it unconsciously, without knowledge or understanding, on the next generation. Let us heal these areas within us that were caused by abuse in our own childhoods, so that we do not continue to inflict those wounds on the most precious resource we have, our innocent children. Let us protect the doorway for others born to this planet, that they might discover that it is safe to be born here on earth once again. Together we can let love prevail. The past has served to clearly show us where we have gone astray. Let's begin again, by choosing a different outcome and then work together in order to create a new world.
+Please join me in united solidarity. Let's create a safer, beautiful world where children can be born into peace, safety, and love. If we start at the beginning where life initiates and insure that doorway is clear, we will go a long way toward insuring the survival of the human race. Many are now more aware of the damage done to a baby or young child when abuse occurs. Indeed this unconscious state of the abuse [p. 323] of children continues to snowball as one generation takes the wounding, only to inflict it unconsciously, without knowledge or understanding, on the next generation. Let us heal these areas within us that were caused by abuse in our own childhoods, so that we do not continue to inflict those wounds on the most precious resource we have, our innocent children. Let us protect the doorway for others born to this planet, that they might discover that it is safe to be born here on earth once again. Together we can let love prevail. The past has served to clearly show us where we have gone astray. Let's begin again, by choosing a different outcome and then work together in order to create a new world.
 
 We need the strongest, most courageous among us to stand and call into account those individuals and groups who have participated in this atrocity; their version of this 'Utopian Hell,’ in order to stop this abuse of children. We need individuals to initiate laws and measures that will not only insure freedom of the mind, but other very fundamental freedoms taken for granted, that we now stand to lose. The course of our actions now will determine the future. What will we choose, fear or love?
 
@@ -30,7 +30,7 @@ Shared with love in the celebration of Christ,
 Susan Ford
 Brice Taylor
 
-**[p. 324]** 
+[p. 324] 
 To make a donation, please contact Brice Taylor at the address below:
 
 Brice Taylor Trust
@@ -67,7 +67,7 @@ Landrum, SC 29356
 
 For special quotes on orders of 10 or more copies shipped to one address, write Brice Taylor at the above address.
 
-**[p. 325]** 
+[p. 325] 
 ## SURVIVOR RESOURCES
 
 ## EEG SPECTRUM
@@ -90,7 +90,7 @@ I would say that the major focus of these past five years has been strengthening
 
 The following list of references is provided for information purposes only and does not necessarily reflect the opinion of this author nor represent an endorsement.
 
-**[p. 326]** 
+[p. 326] 
 Abraham, Larry. Call It Conspiracy. Double A Publications, Gig Harbor, WA. To order: P.O. Box 609, Wauna, WA 98395. 1985.
 
 Allen, Gary. None Dare Call It Conspiracy. Concord Press, Rossmoor, CA. 1971. Allen, Gary. The Rockefeller File. '76 Express, Seal Beach CA, Reprinted 1991. Angebert, Jean-Michael. The Occult and the Third Reich. MacMillan, N.Y. 1974.
@@ -123,7 +123,7 @@ Bowen, Russell S. The Immaculate Deception: The Bush Crime Family Exposed. Ameri
 
 Breggin, Peter R. Toxic Psychiatry. St. Martin's Press, N.Y. 1991.
 
-**[p. 327]** 
+[p. 327] 
 
 Brown, Tony. Empower the People: A 7-Step Plan to Overthrow the Conspiracy That is Stealing Your Money and Freedom. William Morrow & Co., N.Y. 1998.
 
@@ -163,7 +163,7 @@ Franzius, Enno. History of the Order of the Assassins. Funk & Wagnalls, N.Y. 196
 
 Fried, Alfred. The Rise and Fall of the Jewish Gangster in America. Columbia University Press, N.Y. 1993.
 
-**[p. 328]** 
+[p. 328] 
 Geiser, Robert L. Behavior Mod and the Managed Society. Beacon Press, MA. 1976. Gil, Eliana. United We Stand: A Book for People With Multiple Personalities. Launch Press, CA. 1990.
 
 Griffin, Des. Descent Into Slavery. Emissary Publications, 9205 SE Clackamas Road, Clackamas, OR 97015. 1991.
@@ -194,7 +194,7 @@ Hunter, Edward. Brain-washing In Red China. Vanguard, N.Y. 1971. Hutchison, Mich
 
 Icke, David. And the Truth Shall Set You Free. Bridge of Love Publications, Notts, England. 1997 (USA ed.).
 
-**[p. 329]** 
+[p. 329] 
 Icke, David. The Biggest Secret: The Book That Will Change the World. Bridge of Love Publications, Scottsdale, AZ. 1999. Icke, David. The Robot's Rebellion: The Story of Spiritual Renaissance. Gateway Books. 1994.
 
 Isaacson, Walter and Evan Thomas. The Wise Men: Six Friends and the World They Made. Simon & Schuster, N.Y. 1986.
@@ -229,7 +229,7 @@ Marrs, Texe. Dark Majesty: The Secret Brotherhood and the Magic of a Thousand Po
 
 Marrs, Texe. Project LUCID: The Beast 666 Universal Human Control System. Living Truth Publishers, Austin, TX. 1996.
 
-**[p. 330]** 
+[p. 330] 
 McKinney, Julianne. "Microwave Harrassment & Mind Control Experimentation." Article in: Electronic Surveillance Project, December 1992 (Association of National Security Alumni, Silver Spring, MD). <www.mk.net/-mef/mck-clsc.htm#Main>
 
 McManus, John F. The Insiders. John Birch Society, P.O. Box 8040, Appleton, WI 54913. 1992.
@@ -266,7 +266,7 @@ Prouty, L. Fletcher. The Secret Team: The CIA and Its Allies in Control of the U
 
 Project MKULTRA, The CIA's Program of Research in Behavior Modification. Joint Hearing before the Select Committee on Intelligence and the Subcommittee on Health and Scientific Research of the
 
-**[p. 331]** 
+[p. 331] 
 Committee on Human Resources, United States Senate, Ninety-Fifth Congress, First Session, ieee 3, 1977. U. S. Government Printing Office. 1977.
 
 Quigley, Carroll. The Anglo-American Establishment. Books In Focus, N.Y. 1981.
@@ -302,7 +302,7 @@ Scheflin, Alan W. and Edward M. Opton, Jr. The Mind Manipulators. Paddington Pre
 
 Schultzinger, Robert D. The Wise Men of Foreign Affairs: The History of the Council on Foreign Relations. Columbia University Press, N.Y. 1984.
 
-**[p. 332]** 
+[p. 332] 
 Simpson, Christopher. Blowback: The First Full Account of America's Recruitment of Nazis and Its Disastrous Effect on Our Domestic and Foreign Policy. Collier Books: a division of Macmillan Publishing Co., N.Y. 1988. Skinner, B.F. Beyond Freedom and Dignity. Bantam Books, N.Y. 1972. Sklar, Dusty. The Nazis and the Occult. Dorset. 1977.
 
 Sklar, Holly. Trilateralism: The Trilateral Commission and Elite Planning For World Management. South End Press, MA. 1980.
@@ -333,7 +333,7 @@ Thomas, Gordon. Journey Into Madness: The True Story of Secret CIA Mind Control 
 
 Turner, Stansfield. Secrecy and Democracy, The CIA in Transition. Garden City Press, NJ. 1985.
 
-**[p. 333]** 
+[p. 333] 
 Valentine, Douglas. The Phoenix Program. William Morrow, N.Y. 1990. Vallee, Jacques. Messengers of Deception: UFO Contacts and Cults. And/Or Press. Berkeley, CA. 1979. Vankin, Jonathan. Conspiracies, Cover-Ups and Crimes. Dell Publishing, N.Y. 1992.
 
 Verdicr, Paul A., Ph.D. Brainwashing and the Cults An Expose on Capturing the Human Mind. Hal Leighton Printing Co., P.O. Box 1231, Beverly Hills, CA 90213. 1977.

@@ -27,8 +27,8 @@ A man cannot serve two masters. Those who are Masons are taught secret handshake
 
 If you are currently a Mason, you may want to know that the secret knowledge at the top of your organization entails the ritualized abuse of young women who are raped on an altar as part of an initiation process. I know because I was there. It happened to me. I was taken to outdoor places in the '50s and '60s and subjected to satanic rituals performed by various men's fraternal societies, including the Masons and Shriners. I have also known and listened to other women who were healing from this mind control abuse, whose fathers were Masons and through that affiliation came to be young members of Job's Daughters or the Eastern Star, and were healing from the mind control abuse they suffered in secret.
 
-"For this reason I bow my knees before the Father, from whom every family in heaven and on earth is named, that according to the riches of his glory he may grant you to be strengthened with might through his Spirit in the inner man, and that Christ may dwell in your hearts through faith; that you, being rooted and grounded in love, may have the power to comprehend with all the saints what is the **[p. 298]** breadth and length and height and depth, and to know the love of Christ which surpasses knowledge, that you may be filled with all the fullness of God."
+"For this reason I bow my knees before the Father, from whom every family in heaven and on earth is named, that according to the riches of his glory he may grant you to be strengthened with might through his Spirit in the inner man, and that Christ may dwell in your hearts through faith; that you, being rooted and grounded in love, may have the power to comprehend with all the saints what is the [p. 298] breadth and length and height and depth, and to know the love of Christ which surpasses knowledge, that you may be filled with all the fullness of God."
 
 -- Ephesians 3:14
 
-**[p. 299]** 
+[p. 299] 

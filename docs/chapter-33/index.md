@@ -23,7 +23,7 @@ After I was through, two men in black uniforms with yellow-braided stripes on th
 
 Before he was President, there was an occasion in a large hotel in Los Angeles. The Clintons were already heavily guarded with a whole group of Secret Service agents.
 
-For my use as a sexual slave, I was trained to make love to married couples by always bringing the focus back to them. "Isn't your wife beautiful! Isn't your husband strong," or, whatever statements would **[p. 278]** strengthen their bond and love for each other, if they were to be kept together. When I got through with couples they were totally enamoured with each other and hardly noticed when I dressed and left the room. I was used in this way with the Clintons. There was usually cocaine, often a gift from someone they knew, routed through me.
+For my use as a sexual slave, I was trained to make love to married couples by always bringing the focus back to them. "Isn't your wife beautiful! Isn't your husband strong," or, whatever statements would [p. 278] strengthen their bond and love for each other, if they were to be kept together. When I got through with couples they were totally enamoured with each other and hardly noticed when I dressed and left the room. I was used in this way with the Clintons. There was usually cocaine, often a gift from someone they knew, routed through me.
 
 After the Clintons went to sleep I left. A man stepped toward me as I exited the room and escorted me down a red carpeted hall, to the elevator, and down to the lobby, as he held my elbow and lower forearm. At this point, another man took over, making a very smooth transition. I was pushed down into a waiting limo (I think it was a black Mercedes), as the man hurried and slammed the door. I was taken to the airport and the driver radioed ahead, and a man met us at the curb and hurried me onto my plane.
 
@@ -39,7 +39,7 @@ The programs I had for the White House were pretty well-worn and grooved. Henry 
 
 Henry Kissinger hated Bill Clinton, but he especially hated Hillary. He wanted to publicly humiliate and disgrace her by showing that she had illegal investments and that she lied. Henry said, "People (the public) will be manageable after this is exposed."
 
-**[p. 279]** 
+[p. 279] 
 Al Gore was easy for the Council because I believe he is a robot like me. Al Gore had me perform oral sex on him. He didn't do cocaine, though. He adamantly refused. Henry said, "He's a robot of choice."
 
 I also had memories of experiences where I was at the White House with Hillary, Chelsea and a famous female vocalist, involved in a sex ritual.
@@ -90,4 +90,4 @@ In a society where mind control is insidious, the whole of society is responsibl
 
 "Every word of God proves true; he is a shield to those who take refuge in him." -- Proverbs 30:5
 
-**[p. 280]** 
+[p. 280] 

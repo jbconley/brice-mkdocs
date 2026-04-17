@@ -11,4 +11,4 @@ He did, however, listen and respond to messages delivered through me from the Co
 
 "But now the Lord who created you ...says: Don't be afraid, for I have ransomed you; I have called you by name; you are mine. When you go through deep waters and great trouble, I will be with you. When you go through rivers of difficulty, you will not drown! When you walk though the fire of oppression, you will not be burned up - the flames will not consume you. For I am the Lord your God, your Savior..." -- Isaiah 43:1-3
 
-**[p. 190]** 
+[p. 190] 

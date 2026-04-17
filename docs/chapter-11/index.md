@@ -23,7 +23,7 @@ It made Reagan so mad that he looked at the guy and said, "Do you have a clearan
 
 The guy said, "No."
 
-**[p. 111]** 
+[p. 111] 
 "Well that's why you're behind that desk and I'm cleared to go through." Reagan responded angrily.
 
 The black guard just said, "Suit yourself, Sir." And, we passed by. After that they got a phony clearance for me so there wouldn't be any more problems or questions asked when we went through together. My job once we were in the secured area was to record with my photographic memory all the "stats" on the projects. Later in New York, I filled Henry in on the latest data. Henry took brief notes, maybe to follow up on certain statistical data, I don't know.
@@ -44,7 +44,7 @@ In later years, Reagan brought some of the prisoners to a certain location to de
 
 ## Mind Control Demonstrations
 
-During one demonstration Reagan said, "Strip for the surprise effect, drive those scientists wild like you did me the first time." They were demoing all the uses for mind control application - like for **[p. 112]** behavior (violence) control, or for intelligence operatives like me, a mind file or sex slave for the government, so the men in high offices could have their needs met without security risk. These men felt they were that important. The elite, in fact.
+During one demonstration Reagan said, "Strip for the surprise effect, drive those scientists wild like you did me the first time." They were demoing all the uses for mind control application - like for [p. 112] behavior (violence) control, or for intelligence operatives like me, a mind file or sex slave for the government, so the men in high offices could have their needs met without security risk. These men felt they were that important. The elite, in fact.
 
 Reagan said, "Our jobs are so vital to meeting the needs of the majority that having a little help like this really makes a difference in how we can perform in our chosen field of employment. You will see that this is the technology of the future."
 
@@ -60,7 +60,7 @@ Kissinger thought the prisoner stuff was "a waste of precious time when more pro
 
 Reagan did horrific things to demonstrate his progress with the prison population, even to the extent of sticking one of the prisoners with a long needle to show he couldn't any longer feel pain, inside or out, and would no longer be a problem to himself or to society. Reagan talked about how they were able to lay in a new framework for life for these people. He was talking about the mind control projects done to "normalize" prisoners that were to be put back on the streets. That way they felt they would be able to empty the prisons and reduce a large percentage of the state budget, and it would help with federal funding as well. His vision was that one day all criminals could be "cured" in this way and go on to live a life free from crime within society, not locked behind bars.
 
-**[p. 113]** 
+[p. 113] 
 There were actual programs instilled into the minds of the prisoners with the use of audio and other equipment, located in various areas around the country. Some of it looked like electric chairs but they were modified to deliver regulated doses of electricity to simply slow or alter the mind in certain areas. He said these men were simply "routinized," which meant they awoke the same time each morning, ate breakfast, went to work, came home, watched television, ate dinner, went to bed. Reagan laughed when he said, "We even go so far as to suggest they keep their lawns and yards well manicured in order to keep the neighborhoods up." He said, "This spills over into all areas of society. These people will become productive and the cost to all of us taxpayers will be greatly reduced and, eventually, as we become better at this, we may not even have further need for our prison system. We will have a crimefree society--just imagine that!!"
 
 Henry cringed when he heard Reagan's ideas and often berated him in front of me for acting irresponsibly by putting out a product that was not time-tested. Henry said an experiment on the public (although criminal) sector was risky, as there were no controls in place to insure the person's memory would remain locked up. Nor, Henry reasoned, "do ve have the test of time to know how the experiments vork. You're sending these people back into society vithout any exterior controls and no means of monitoring them. It spells disaster, Ron." Of course I never mimicked Henry's accent when delivering messages, but this is how I heard them.
@@ -75,7 +75,7 @@ Kissinger and Reagan often had heated arguments where Henry gave him a piece of 
 
 Henry Kissinger also manipulated the New Age craze. Henry said people who would believe that guides and masters were leading them should be guided by masters, and he considered himself one. Henry said I could trust anyone who wore a crystal as part of my 'family of man’...that's what he called our mind controlled group because it was a family experiment in dynamics, breeding, rearing, etc. These experiments encompassed how everything effected a person, and they felt they might as well learn on the slaves what would be the best for their future progeny.
 
-A whole business was made of the New Age to the slave community. As books and items were created for those searching for truth, the self-appointed ‘enlightened ones' who were ‘in the know' manipulated the spiritual ideologies in order to hide many of their mind control realities. What was **[p. 114]** behind much of it was really a group of men, controlling mind-controlled robots and herding them in the direction they wanted them.
+A whole business was made of the New Age to the slave community. As books and items were created for those searching for truth, the self-appointed ‘enlightened ones' who were ‘in the know' manipulated the spiritual ideologies in order to hide many of their mind control realities. What was [p. 114] behind much of it was really a group of men, controlling mind-controlled robots and herding them in the direction they wanted them.
 
 I was programmed to deliver to a famous Los Angeles channeler, the words to say just before a Whole Life Expo event where he channeled the message to a very large group of people in an auditorium who were in an altered meditative state. Henry gave me the exact words to say. They were targeting highlevel slaves and it encompassed those programmed with whales and dolphins, angels, ascended masters, eastern religions, energy, quantum physics, UFO's, aliens, channeling, and listening to your guides and angels. They felt if Los Angeles failed then the rest would because most were patterned after Los Angeles.
 
@@ -93,9 +93,9 @@ Many slaves were also being used in projects for remote viewing, one of the CIA'
 
 ## NASA Future Technology as Seen from the Past
 
-**[p. 115]** 
+[p. 115] 
 Lyle Curran, a NASA employee and Craig's uncle, often tapped into my NASA mind files when we went to their home in Los Alamitos or when we met up with them on our numerous trips to Mexico, mostly Mazatlan. From the information Uncle Lyle accessed from my mind files way back in the '60s, '70s, '80s, rockets and missiles were a thing of the past, and directed energy in the form of weaponry systems was what they were planning on using as the new weapons of the future. No one can see it coming, nor defend against it. They could take out the lights in entire cities and blame it on UFO's. The Department of Defense experimented for a long time, until they mastered this technology. It puts nuclear weapons right out of business. I am not saying that I don't believe extraterrestrials exist, because I think that would be extremely ignorant. All I am saying is that there are real live human beings that need to be taken into account for the evil deeds that were done. They can do surgery with energy, making no incisions. They can insure a body doesn't disease by monitoring the electromagnetic field variations. I witnessed awesome medical feats, but even as they are funding these projects, the public is still not benefiting from the use of this technology. This information is held in top secret clearances.
 
 "But I will restore health to you and heal your wounds," declares the Lord. -- Jer. 30:17
 
-**[p. 116]** 
+[p. 116] 

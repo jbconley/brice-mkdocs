@@ -17,7 +17,7 @@ It was sad the year JFK died. Everyone wore black and Rose, sitting in her wheel
 
 Ted Kennedy was brutal. He was one of the most violent and meanest men I was with. He liked to have sex with me anywhere and everywhere he could, but he especially liked to have sex in cold climates in rooms with a fireplace. One place had a big rock fireplace and he made a big fire and then wanted to have sex all night. When he neared orgasm he would slap and beat me. He hit me so hard it felt like my head would explode. Then in his proper Kennedy accent, he would call me a "c--t." He liked to tie my arms over my head to the headboard or if there wasn't anything to attach my hands and wrists to, he would tie them tightly together. Lots of times he made me stay tied up for a long time. He liked to hand cuff me also. He was really into bondage and if I ever neared any sexual pleasure he would start hitting and slapping me, and once that began it was like he couldn't stop himself and quickly escalated into extreme violence. He seemed to require that in order to orgasm.
 
-I was flown to him in the New England States. At dusk, we walked outside together in a forest. There was a real chill in the air. He told me to strip and I was forced to take my clothes off outside in the cold. He ordered me to dance around the forest like I was a fairy. Then he laughed like he was drunk or **[p. 160]** out of his mind. He had a rifle with him and he shot it into the air and it really scared me. He said he shot the gun just so my nipples would stand up.
+I was flown to him in the New England States. At dusk, we walked outside together in a forest. There was a real chill in the air. He told me to strip and I was forced to take my clothes off outside in the cold. He ordered me to dance around the forest like I was a fairy. Then he laughed like he was drunk or [p. 160] out of his mind. He had a rifle with him and he shot it into the air and it really scared me. He said he shot the gun just so my nipples would stand up.
 
 There were other times after he finished violently satisfying himself with me that he would break down and cry. He was very disturbed. But the hurting he delivered never stopped. He used me often until I was just over twenty-five.
 
@@ -33,7 +33,7 @@ The Kennedys usually had their own means of transportation and drove separately.
 
 My daughter Kelly was prostituted to the younger Kennedy men. They had a lot of boys. The Kennedy boys were taught early how to ‘handle’ their women. And I was there to teach them about sex and they were learning how to handle a slave. They knew they could have anything they wished from me, and that I was totally subservient. They weren't old enough to be trusted with the full mind-control information. They had to be initiated first into the family secrets.
 
-**[p. 161]** 
+[p. 161] 
 Kelly and I sometimes worked together at the Kennedy's. Sometimes Ted liked to have the "motherdaughter sex team" that our controllers programmed us to be. Ted always violently hurt us both. He had a son, who liked to pick Kelly for sex. He took her off by the hand when she was still a little girl, and he was much older.
 
 All the Kennedy brothers - JFK, Ted, and Robert - had sons, and there were a lot of other elite families who carried the same sexual beliefs in regard to their men. And Bob gave me to lots of them, as he arranged for them to have me inconspicuously at their parties as a "maidtress."
@@ -50,7 +50,7 @@ Rose approved of Jackie. She thought Jackie was the greatest and spoke to her of
 
 As Joe got older, he was confined to a wheel chair. The last time I saw him he was tied into his wheelchair and had some sort of IV or oxygen unit with him. Then he died and wasn't there the next time I went. I knew because I was updated, by closed circuit television (room 222), what the family news was so I could have appropriate conversations with the Kennedys. They are connected to the Council and represent them heavily. Joseph Kennedy was big in business and had holdings that were well connected. What I overheard was that when their money was connected, it was protected and thereby guaranteed a place in the power structure. But the money, the big money, had to come before a person was accepted. The theory was that if a person could amass money then it proved they were smart enough, and if they knew how to get it 'connected' then they were pliable enough, and if they followed through on what was asked of them they could become RICH and FAMOUS. Then all that was left to do was to create a media public identity to portray whatever image they wanted projected by the media industries they funded. It was all a big cycle where one fed into another and they all ended up on top.
 
-**[p. 162]** 
+[p. 162] 
 Bob knew the protocol with the Kennedy family. He was always kind and gracious and giving, and his nasty jokes about the elite were watered down whenever it came to any of the Kennedys because he didn't ever want to be in disfavor with them.
 
 Bob also sent me to different vacation spots around the world, to entertain certain members of the Kennedy family. He never minded paying what he called, "Big bucks," to fly me to someone who could make a difference. Then he would say, "Ah, yes!" and get that little sly smile on his face. He knew that the connections into powerful leaders and influential people would pay off very handsomely. So he didn't mind paying to fly me, and later, me and "my little filly," as he called Kelly, all over the world, sometimes on the Concorde.
@@ -59,4 +59,4 @@ Bob also sent me to different vacation spots around the world, to entertain cert
 
 -- 1 Corinthians 16
 
-**[p. 163]** 
+[p. 163] 

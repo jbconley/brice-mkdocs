@@ -19,7 +19,7 @@ They said this baby was a gift of diplomacy between our countries. Reagan called
 
 When the doctors were ready to deliver my not yet full-term baby, I was taken aboard an airplane. They laid me on a cot-like gurney made of white canvas on a metal frame. There was an IV bottle hanging over my head and I was afraid it was going to swing off its stand as the plane was entering turbulent weather. I couldn't say anything, because I had a mask over my face.
 
-**[p. 207]** 
+[p. 207] 
 My baby was born in the air, delivered by doctors dressed in surgical gowns and masks. They had utensils and long-shaped stainless steel bowls with alcohol or some type of sterile solution for their utensils. There were no nurses. Just two doctors. The baby was also to be part of some experiment. As I flashbacked, abreacted, and retrieved this memory I felt the uterine contractions and pain, my tailbone hurt and stung because they gave me a spinal injection. I didn't have the baby naturally; I heard the doctors say the word "epidural," but at the time didn't know what that word meant.
 
 After the baby was born and the plane landed, one doctor wrapped him all up in a thin white blanket and soon headed out the door of the plane with him. I screamed with everything I was: "NO! NO! NO!" But I don't know if I was able to scream the words out loud or if I was just screaming inside. Tears were streaming from my face. I looked out the airplane window and saw a dark-haired man and a woman with medium-length blonde hair standing together on the tarmac. The doctor who took my tiny newborn son from me handed him first to the dark-haired man who, in turn, handed him into the arms of the woman. The doctor then pointed for them to go on and I thought I would die when this couple took my baby and walked away.
@@ -34,4 +34,4 @@ The grief is totally encompassing. When I think of him I still cry uncontrollabl
 
 "Thus says the Lord: Refrain your voice from weeping, and your eyes from tears; for your work shall be rewarded, says the Lord and (your children) shall return from the enemy's land. And there is hope in your future, says the Lord; your children shall come again to their own country." -- Jeremiah 31:16-17
 
-**[p. 208]** 
+[p. 208] 
